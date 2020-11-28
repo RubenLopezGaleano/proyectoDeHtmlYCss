@@ -1,2 +1,2 @@
 # proyectoDeHtmlYCss
-Practica de javaScript, Jquery, HTML y CSS
+practica de los lenguajes HTML y CSS
